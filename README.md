@@ -1,6 +1,6 @@
 ## Hi, I'm Abdullah 👋
 
-🎓 1st-year Communication & Information Engineering student @ Zewail City of Science & Technology
+🎓 2nd-year Communication & Information Engineering student @ Zewail City of Science & Technology
 💻 Building things with Python and C++ -- from OOP games to circuit-level hardware projects
 ⚡ Interested in AI, data, and systems -- with a side of hardware tinkering and custom PC builds
 🔧 Comfortable across the stack: writing code, building circuits, and setting up Linux environments
